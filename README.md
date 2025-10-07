@@ -11,6 +11,9 @@ Note: This is a mirror/clone of Mike's original site at www.elf-emulation.com. T
 
 https://bobkuczewski.github.io/Mike-Riley-ElfEmulation/
 
-A similar mirror can be found at: https://elf-emulation.lunahost.ca/
+Similar mirrors can be found at these sites:
+
+* https://madole.net/mirror/elf-emulation.com/
+* https://elf-emulation.lunahost.ca/
 
 ---
